@@ -1,0 +1,9 @@
+I'm Pedro Azevedo, I am from Portugal and I am doing Erasmus.
+During my two years in my University, I have learnt some ways to produce media web content.
+Now, I have experience in HTML5, CSS3, and some in JavaScript. With this, I have done some projects, a portfolio, BlackJack (cards game) and an Image Search Engine. 
+About Backend, I know how to create applications with Java Server Pages (JSP), alongside with XML, XSD and DTD as a small database. 
+Joining all these topics, I manage to develop an online Battleship game.
+For this semester, I would like to gain more experience in JavaScript, learn NodeJS and some frameworks like React. I do not know how to work with GitHub and Git.
+Another thing that I am interested in is databases like SQL.
+Lastly, I am expecting that, at the end of the semester, I can produce and write clean, safe and efficient code and learn how to do good documentation.
+My goals for this semester is to have a new study and learning experience and gain new and useful knowledge. 
